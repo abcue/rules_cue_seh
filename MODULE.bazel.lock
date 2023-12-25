@@ -950,7 +950,7 @@
   "moduleExtensions": {
     "//cue:extensions.bzl%cue": {
       "general": {
-        "bzlTransitiveDigest": "B15Xec6xEeYLr1e6BrghkJKWfjhU44aKIrR+6VFRKtg=",
+        "bzlTransitiveDigest": "DdBzHOUiiSlgNO00mjjBmDwgdq8zGRE5OFdEv97Rglw=",
         "accumulatedFileDigests": {},
         "envVariables": {},
         "generatedRepoSpecs": {

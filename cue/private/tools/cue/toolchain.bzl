@@ -2,6 +2,8 @@
 # our repository rules.
 visibility("public")
 
+CUE_TOOLCHAIN = "//cue:toolchain"
+
 _TOOLS_BY_RELEASE = {
     "v0.7.0": {
         struct(os = "darwin", arch = "amd64"): "b86efef83abe1b0c90a3cf47a490cd6de5c884d0865ad3463f539b0346a39c8b",

@@ -6,6 +6,7 @@ load(
 exports_files([
     "cue-run-from-archived-runfiles",
     "cue-run-from-runfiles",
+    "cue.bzl",
 ])
 
 cue_config(
